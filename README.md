@@ -1,0 +1,1 @@
+# capacitacao_qa_full_stack_lp
